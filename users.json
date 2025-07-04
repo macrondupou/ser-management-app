@@ -1,0 +1,32 @@
+[
+  {
+    "id": "admin",
+    "password": "admin123",
+    "nom": "Admin",
+    "prenom": "Admin",
+    "sexe": "Homme",
+    "date_naissance": "1990-01-01",
+    "montant": 0,
+    "statut": "admin"
+  },
+  {
+    "id": "DF09673",
+    "password": "admin1",
+    "nom": "murante",
+    "prenom": "Michael",
+    "sexe": "Homme",
+    "date_naissance": "2020-11-06",
+    "montant": 1300000,
+    "statut": "bloqué"
+  },
+  {
+    "id": "GH58HU2",
+    "password": "ADMIN5",
+    "nom": "Michael",
+    "prenom": "Murant",
+    "sexe": "Homme",
+    "date_naissance": "2025-07-12",
+    "montant": 2000000,
+    "statut": "actif"
+  }
+]
